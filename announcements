@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Welcome to The Mighty Rafflers! - Home of Raffles, Giveaways and Trading.</title>
+    <link rel="stylesheet" href="stylesheet.css" />
+</head>
+<body>
+<div id=big_wrapper>
+    
+    <div id="homeup">
+        <h1 id="headerup"><br>Welcome to The Mighty Rafflers!</h1>
+    </div>
+
+    <div>
+        <nav id="top_menu">
+            <ul id="main_menu">
+                <hr id="vertical"/>
+                <li><a href="index.html">home</a></li>
+                <li><a href="#">link</a></li>
+                <li><a href="#">link2</a></li>
+                <li><a href="about.html">about us</a></li>
+                <hr id="vertical2"/>
+                
+            </ul>
+        </nav>
+    </div>
+    
+</div>     
+</body>
+</html>
